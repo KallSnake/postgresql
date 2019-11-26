@@ -1,6 +1,4 @@
-# postgressql
-
-# pequenos testes realizados
+# postgressql # pequenos testes realizados
 
 --CRIAÇÃO DA TABELA CATEGORIA_EVENTOS
 CREATE TABLE CATEGORIA_EVENTOS
