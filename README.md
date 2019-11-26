@@ -1,5 +1,9 @@
 # postgressql # pequenos testes realizados
 
+
+# https://drive.google.com/open?id=1yswipZBabpn6nQjUu-r9XunhxHmzR-52
+
+
 --CRIAÇÃO DA TABELA CATEGORIA_EVENTOS
 CREATE TABLE CATEGORIA_EVENTOS
 (
